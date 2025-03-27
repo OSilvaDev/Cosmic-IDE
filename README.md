@@ -4,6 +4,7 @@
 
 # Cosmic IDE
 
+[![Android CI](https://github.com/OSilvaDev/Cosmic-IDE/actions/workflows/android.yml/badge.svg?event=workflow_run)](https://github.com/OSilvaDev/Cosmic-IDE/actions/workflows/android.yml)
 [![License](https://img.shields.io/github/license/Cosmic-Ide/Cosmic-Ide)](https://github.com/Cosmic-Ide/Cosmic-Ide/blob/main/LICENSE)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/94a4082a551c496cae031bcdb6f2040d)](https://codacy.com/gh/Cosmic-Ide/Cosmic-Ide/dashboard)
 [![Total downloads](https://img.shields.io/github/downloads/Cosmic-Ide/Cosmic-Ide/total)](https://github.com/Cosmic-Ide/Cosmic-Ide/releases)
